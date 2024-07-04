@@ -3,3 +3,5 @@ export const obj = {
   one: false,
   two: false,
 };
+
+export const DB_NAME = 'fufaji' 
